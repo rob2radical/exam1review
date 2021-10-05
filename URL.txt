@@ -1,0 +1,20 @@
+URL Notes
+
+http://www.foo.com:80/bar.html?var1=12
+
+Protocol: http
+
+Hostname: www.foo.com
+
+Top-Level-Domain (TLD): .com
+
+Domain Name: foo.com
+
+Subdomain: www
+
+Port: 80 (http)
+
+Path: bar.html
+
+Arguments: var1=12
+

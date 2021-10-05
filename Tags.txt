@@ -1,0 +1,32 @@
+Paragraph: <p></p>
+
+    * Block element
+
+Heading: <h1></h1>
+
+    * Block element
+
+Bold: <strong></strong>
+
+    * Inline element
+
+Italic: <i></i> 
+
+    * Inline element
+
+Line Break: <br> 
+
+    * Inline element
+
+
+Horizontal Rule: <hr> 
+
+    * Inline element
+
+
+Comment Block: <! -- comment -- >
+
+    * Inline element
+
+
+
